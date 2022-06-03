@@ -35,7 +35,7 @@ global.footer = 'ZhaaLLBot' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UC5gwimT5btH077QidhvG7MA'
 global.ig = 'https://instagram.comayne'
-global.mygc = 'https://chat.whatsapp.com/Gm5HJW8DjyCFme2fa8n7jW
+global.mygc = 'https://chat.whatsapp.com/Gm5HJW8DjyCFme2fa8n7jW'
 global.myweb = 'https://s.ids'
 global.email = 'zhalfa@gmail.com'
 global.region = 'indonesia'
